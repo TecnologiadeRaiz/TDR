@@ -1,0 +1,861 @@
+# "Desarrollo de pasos para hacer una antena guía de ondas, describiendo nuestro espacio de trabajo"
+
+
+<h2>
+    <u>
+    ¿Cómo es nuestro espacio de trabajo?
+    </u> 
+</h2>
+
+<p>
+    El espacio físico en el que trabajamos es un ambiente de 3,5m x 4m, donde tenemos dos mesas de trabajo:
+</p>
+    
+<ul>
+    <li>
+        Una donde preparamos los caños y soportes.
+    </li>
+    <li>
+        Otra donde está el dispositivo que sostiene los cables para soldar.
+    </li>
+</ul>
+    
+
+
+<img src="https://i.imgur.com/gXzymOk.jpg" width="500">
+
+
+<img src="https://i.imgur.com/q1ku5VV.jpg" width="500">
+
+
+<h2>
+    <u>
+        Elementos de protección personal:
+    </u>
+</h2>
+
+<ul> 
+    <li>
+        Protectores auditivos
+    </li>
+    <li>
+        Guantes
+    </li>
+    <li>
+        Lentes
+    </li>
+    <li>
+        Mascarillas
+    </li>
+    <li>
+        Ropa de trabajo
+    </li>
+</ul>
+
+<hr>
+
+<h2>
+    Proceso de producción con materiales y herramientas avanzadas
+</h2>
+
+<h2>
+    Marcar soportes
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Para este proceso utilizamos una mesa y un taco de madera que nos ayuda a realizar el marcado con una plantilla hecha a medida para luego perforar los <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Plano%20Soporte-v3.svg">Soportes</a>.
+</p>
+
+
+<h4>
+    <u>
+        Para este proceso necesitamos:    
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Mesa firme
+    </li>
+    <li>
+        Taco de madera
+    </li>
+    <li>
+        Plantilla de perforacion
+    </li>
+    <li>
+        Plancha de metal de 2mm de grosor de 50mm x 80mm con un pliegue a 90º de 50mm x 50mm,
+    </li>
+    <li>
+        Punto de marcar
+    </li>
+    <li>
+        Martillo 
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?    
+    </u>
+</h4>
+
+<p>
+Utilizamos la mesa de trabajo con un taco de madera que sostiene la plancha de metal para marcarla, apoyando la plantilla para hacer las perforaciones sobre ella.
+</p>
+
+<img src="https://i.imgur.com/ttwx4Xp.jpg" width="250">
+
+<img src="https://i.imgur.com/qqn3m3w.jpg" width="229">
+
+
+
+<p>
+    Con la ayuda de la plantilla procedemos a marcar la plancha con un punto de marcar y martillo.
+</p>
+
+
+<p>
+    De no contar con recursos para crear esa plantilla, Visitá el siguiente 
+<a 
+href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Marcar%20soportes.pdf">enlace </a>   
+</p>
+
+<img src="https://i.imgur.com/iICJJL1.jpg" width="250">
+
+
+
+<h4>
+    <u>
+        Recomendaciones:
+    </u>
+</h4>
+
+<p>
+    Es importante que la plantilla esté alineada con el soporte, para luego no tener problemas a la hora de alinear las antenas.
+</p>
+
+<h2>
+    Perforar soportes
+</h2>
+
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Utilizamos la mesa de trabajo central con el taladro de banco, y la plantilla diseñada para tal fin.
+</p>
+
+
+<h4>
+    <u>
+        Para este proceso necesitamos:
+    </u>
+</h4>
+
+
+<ul>
+    <li>
+        Mecha 6mm
+    </li>
+    <li>
+        Lima redonda y plana (para eliminar rebarbas)
+    </li>
+    <li>
+        Taladro de banco
+    </li>
+    <li>
+        Morza
+    </li>
+    
+</ul>
+
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+    Con las planchas de metal marcadas, procedemos a perforarlas con el taladro de banco.
+    Una vez realizadas las perforaciones, limamos las rebarbas.
+</p> 
+
+
+<img src="https://i.imgur.com/Uk10gMI.jpg" width="250">
+<img src="https://i.imgur.com/v7XmteS.jpg" width="250">
+<img src="https://i.imgur.com/a5hBm64.jpg" width="250">
+<img src="https://i.imgur.com/hnJvwl5.jpg" width="250">
+
+
+<h4>
+    <u>
+        Recomendaciones y advertencias: 
+    </u>
+</h4> 
+ 
+<p>
+    Es recomendable utilizar un taco de madera que la morza del taladro de banco pueda sujetar y permita apoyar el soporte encima para perforar sobre él.
+    
+Tambien es recomendable no demorar demasiado realizando la perforacion para no estropear la mecha, ya que esta se calienta mucho por la friccion. Además recomendamos utilizar baja velocidad para perforar metales.
+    
+<mark>La perforación de los soportes se puede realizar, en caso de no contar con taladro de banco, con taladro de mano.
+</mark>    
+</p>
+
+<h2>
+    Perforado y estañado de la guía de ondas
+</h2>
+
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Para esta tarea, utilizamos la mesa de trabajo central, con el taladro de banco.
+</p>
+
+
+<h4>
+    <u>
+      Para este proceso necesitamos: 
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Taladro de banco
+    </li>
+    <li>
+        Soldador de inducción
+    </li>
+    <li>
+        Estaño
+    </li>
+</ul>
+
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+    Con el caño de 130mm procedemos a preparar el banco de trabajo para perforar la guia de ondas.
+</p>
+
+<img src="https://i.imgur.com/GhNqUXl.jpg" width="250">
+
+<p>
+Con la ayuda del <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/PLANOS/MOLDE%20DE%20PERFORACION%20-%20V2.svg">molde de perforacion</a>. 
+</p> 
+
+<img src="https://i.imgur.com/5j43Whh.jpg" width="250">
+
+<p>
+Una vez perforado el caño estañamos alrededor de los orificios
+</p>
+
+<img src="https://i.imgur.com/DWT8PUM.jpg" width="300">
+
+
+
+<p>
+    <mark>En caso de no contar con estas     herramientas, se puede realizar el procedimiento con otras más básicas. Para saber cómo, visitá el siguiente
+<a 
+href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20estañado.pdf">enlace  </a>
+    </mark>
+    
+</p>
+
+
+<h4>
+    <u>
+        Advertencias:
+    </u>
+</h4>
+
+    
+<p>
+    Es importante que los orificios de la guia de ondas esten alineados con los del soporte, ya que esto nos va a afectar a la hora de alinear la antena.
+</p>
+
+
+<h2>
+    Recortar bordes para darle forma circular al soporte
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Utilizamos la mesa central del taller.
+</p>
+
+<h4>
+    <u>
+      Para este proceso necesitamos: 
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Tijera cortachapa
+    </li>
+    <li>
+        Lima
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+    Se utiliza el caño de la guía de ondas como plantilla para marcar los soportes.
+    Luego con la tijera de cortar chapa, siguiendo las marcas, se le da forma redondeada.
+</p>
+
+<img src="https://i.imgur.com/ra1M4Wp.jpg" width="200">
+
+
+<img src="https://i.imgur.com/Ul3tYHn.jpg" width="250">
+
+<img src="https://i.imgur.com/Xw1oF1h.jpg" width="250">
+
+
+<h4>
+    <u>
+        Recomendaciones:
+    </u>
+</h4>
+
+<p>
+    Utilizar elementos de seguridad personal, en este caso guantes.
+</p>
+
+
+<h2>
+    Soldar soportes
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Utilizamos la mesa de trabajo, con una chapa que resguarde la mesa de las chispas que caen durante la soldadura.
+</p>
+
+<h4>
+    <u>
+      Para este proceso necesitamos: 
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Chapa
+    </li>
+    <li>
+        Soldador inverter
+    </li>
+    <li>
+        Electrodos E-6013 (o compatible)
+    </li>
+    <li>
+        Morza
+    </li>
+    <li>
+        Caño y soporte
+    </li>
+    <li>
+        Guantes de soldar o de cuero
+    </li>
+    <li>
+        Máscara protectora
+    </li>
+</ul>
+
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+    Con el soporte agarrado a la morza por su lado perforado, colocamos la guia de ondas con las perforaciones hacia abajo y una de ellas orientada hacia el lado redondeado del soporte.  
+</p>
+
+<img src="https://i.imgur.com/03QkQWv.jpg" width="250">
+
+
+
+ <h4>
+    <u>
+        Recomendaciones:
+    </u>
+</h4>
+
+<p>
+    Es muy importante que se utilice protección en la vista, las máscaras que se utilicen deben ser las apropiadas para soldador eléctrico.
+    
+</p>
+
+
+<h2>
+    Amolar y masillar
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+
+<p>
+    Utilizamos la mesa central del taller con la morza colocada.
+</p>
+
+<h4>
+    <u>
+      Para este proceso necesitamos: 
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Morza
+    </li>
+    <li>
+        Amoladora
+    </li>
+    <li>
+        Disco de amolar
+    </li>
+    <li>
+        Guía de ondas con soportes soldados
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+    Sujetando la guia de ondas con la morza firmemente, eliminamos el excedente de soldadura del soporte y la guia de ondas.
+</p>
+
+<img src="https://i.imgur.com/kmyraO5.jpg" width="250">
+
+
+
+<h4>
+    <u>
+        Advertencias:
+    </u>
+</h4>
+
+<p>
+    
+Utilizar elementos de protección personal, en este caso lentes, guantes, protección auditiva y ropa de trabajo que cubra todo el cuerpo, para que la viruta de metal no nos dañe. Asimismo, trabajar con la ventilación correspondiente
+
+</p>
+
+<h2>
+    Pintura antenas
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    La máquina de pintar se utiliza en cabina de pintado o en exterior, ya que el espacio de trabajo dentro del taller es muy reducido, y la máquina pulveriza gran cantidad de pintura.
+</p>
+
+
+<h4>
+    <u>
+      Para este proceso necesitamos: 
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Pintura sintética de alta resistencia.
+    </li>
+    <li>
+        Máquina para pintar.
+    </li>
+    <li>
+        Diluyente.
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+   Para utilizar la maquina para pintar, primero se debe diluir la pintura de manera que quede lo suficientemente liquida para poder ser pulverizada por la máquina.
+    Para el secado, utilizamos un dispositivo colgante donde pueden permanecer durante el tiempo necesario, sin obstaculizar el trabajo en el resto del taller, hasta finalizar su proceso de secado.
+</p>
+
+
+<p>
+    
+   En caso de no contar con máquina para pintar, este procedimiento se puede realizar con pincel 
+    
+</p>
+
+
+<img src="https://i.imgur.com/QMW2gVO.jpg" width="250">
+
+<img src="https://i.imgur.com/HRpBZ2O.jpg" width="300">
+
+
+<hr>
+<h2>
+    Armado de cables pigtail
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Esta parte de la producción se realiza en una mesa libre de limaduras o virutas de metal.
+</p>
+
+<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
+
+
+<img src="https://i.imgur.com/F7tCu67.jpg" width="250">
+
+
+<p>
+    Colocamos los conectores SMA RP male
+</p>
+
+<img src="https://i.imgur.com/rShLDTP.jpg" width="250">
+
+<img src="https://i.imgur.com/ezeSEGo.png" width="250">
+
+
+<p>
+    Para mostrar como es el proceso, compartimos estos videos explicativos:
+
+<ul>
+    <li>
+        <a 
+href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1</a>
+    </li>
+    <li>
+        <a href="https://player.vimeo.com/video/780568264?h=076a3a0531">Ensamblado parte 2</a>
+    </li>
+</ul>
+    
+     
+    
+    
+   
+    
+</p>
+
+
+<p>
+    Para finalizar el proceso, se crimpean y se les coloca termocontraible 
+</p>
+
+<img src="https://i.imgur.com/ZACdT5x.png" width="250">
+
+<img src="https://i.imgur.com/HNBOqjr.jpg" width="250">
+
+
+
+<p>
+    En el otro extremo del cable, pelamos la vaina hasta obtener la espiga que iluminará la guía de ondas.
+	Recomendamos una espiga de 11.7mm de longitud.
+</p>
+
+<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
+
+
+
+
+
+
+<hr>
+
+<h2>
+    Soldar cables al caño
+</h2>
+
+ <h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Este proceso se puede realizar en la mesa de trabajo auxiliar, donde tenemos instalado un dispositivo con ranuras para sostener los cables.
+</p>
+
+<img src="https://i.imgur.com/dhaLKIt.jpg" width="250">
+
+<h4>
+    <u>
+      Para este proceso necesitamos: 
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Estaño
+    </li>
+    <li>
+        Soldador vesubio
+    </li>
+    <li>
+        Segmento de 5mm de caño de aluminio de 8mm (3/8")
+    </li>
+    <li>
+        Cable pigtail x2
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+    Estañamos las perforaciones previamente cepilladas, luego tomamos el cable  pigtail, lo colocamos en la perforacion y soldamos la malla al caño (guia de ondas).
+</p>
+ 
+<img src="https://i.imgur.com/Yfhxqin.jpg" width="250">
+
+
+<p>
+    <mark>En caso de no contar con soldador vesubio, se puede realizar este trabajo con soldador zinguero.</mark>
+    
+
+    
+</p>
+
+
+
+<h4>
+    <u>
+        Recomendaciones o advertencias:
+    </u>
+</h4>
+
+<p>
+    Debemos asegurarnos de que el soldador este bien caliente y limpio, para reducir al mínimo el tiempo de contacto y así no quemar la vaina del cable.
+</p>
+
+<h2>
+    Impresión de anillos portachains
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>
+    Utilizamos un mueble donde esta posicionada la impresora 3D, resguardada de la hostilidad del taller.
+</p>
+
+<img src="https://i.imgur.com/cdfA0QW.jpg" width="350">
+<h4>
+    <u>
+        Para este trabajo necesitamos:    
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Diseños hechos en Freecad
+    </li>
+    <li>
+        Impresora 3D
+    </li>
+    <li>
+        Filamento Petg
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?    
+    </u>
+</h4>
+
+<p>
+    Laminamos los diseños (.stl) hechos en Freecad para obtenerlos en formato .gcode en este caso, los almacenamos en una tarjeta de memoria que insertamos en la impresora 3D para imprimirlos.
+</p>
+
+
+<h2>
+    Colocar anillos portachains
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo:
+    </u>
+</h4>
+
+<p>    
+    Utilizamos la mesa auxiliar para poner los portachain.
+</p>
+
+<h4>
+    <u>
+       Para este proceso necesitamos:
+    </u>
+</h4>
+
+<ul>
+    <li>
+        Anillos portachain    
+    </li>
+    <li>
+        Antena con cables soldados
+    </li>
+    <li>
+        Caño de aluminio de 3/8"
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+ 
+<p>
+    Se introduce el anillo más grande a través de la guía de ondas, hasta llegar al lugar donde se encuentra el cable.
+ Luego se acopla el portachain trasero, utilizando un segmento de 5mm de caño de aluminio de 3/8", pasandolo a través del cable y llevandolo hasta los dos portachains juntos, y crimpeandolo para sujetar con firmeza los cables.
+ 
+</p>
+
+<h2>
+    Testeo
+</h2>
+
+<h4>
+    <u>
+        Espacio de trabajo
+    </u>
+</h4>
+
+<p>
+    Este trabajo se puede realizar en el dispositivo creado para sostener los cables.
+</p>
+
+<h4>
+    <u>
+        Para este proceso necesitamos.
+    </u>
+</h4>
+
+<ul>
+    <li>
+        <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/RC%20Antenna%20SWR%20Meter.pdf">RC Antena SWR Meter</a>.
+    </li>
+</ul>
+
+<h4>
+    <u>
+        ¿Cómo se hace?
+    </u>
+</h4>
+
+<p>
+    En primer lugar se realiza una inspección ocular para acomodar a 90 grados las dos espigas.
+    Una vez realizado ese procedimiento, se conecta uno de los cables al medidor RC antenna meter y se miden  primero las ondas emitidas por ese chain, y luego las del otro.
+</p>
+
+<img src="https://i.imgur.com/8tGsiFz.jpg" width="250">
+
+
+
+<h2>
+    Colocar tapas y terminacion
+</h2>
+
+<h3>
+    <u>
+        Para este proceso necesitamos
+    </u>
+</h3>
+
+<ul>
+    <li>
+        Regaton o tapa de plático
+    </li>
+    <li>
+        Guía de ondas ensamblada
+    </li>
+</ul>
+
+<p>
+    Para proteger los iluminadores, la guia de ondas se cierra con una tapa de plástico y sellador de silicona para evitar filtraciones.
+</p>
+<h2>
+Antena terminada    
+</h2>
+
+<img src="https://i.imgur.com/aEgRFwI.jpg" width="400">
+
+<p>
+<h2>
+TdR no se hace responsable de los posibles daños causados por la realización de estos procedimientos utilizando este material informativo.
+</h2>
+</p>
+
+
+
+		
+	
+	
+
+
