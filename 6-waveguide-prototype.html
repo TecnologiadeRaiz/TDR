@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Tecnología de Raíz</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="./static/Logo/favicon.ico" />
+<link rel="icon" type="image/png" href="./static/Logo/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="./static/Logo/favicon-16x16.png" sizes="16x16" />
+
+    <link href="./static/style.css" rel="stylesheet">
+        </head>
+<body>
+<header class="site-header">
+    <div class="wrapper">
+        <div class=header-text>
+   
+    <h1 class="site-title">Tecnología de Raíz</h1>
+   
+    <p class="author">by My Name</p>
+    <p class="affiliation">My Affiliation</p>
+</div>
+            </div>
+</header>
+<div class="page-content">
+            <div>
+            <nav class="sidebar">
+                <a href="#" class="menu-icon">
+                <svg viewBox="0 0 18 15">
+                    <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+                    <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+                    <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+                </svg>
+                </a>
+                <ul class="nav-list">
+                <li>
+    <a class="navhome" href="./">
+        Tecnología de Raíz
+    </a>
+</li>
+<li class="not-active">
+    <a class="not-active" href="./1-presentation.html">
+        Tecnología De Raíz
+    </a>
+    </li>
+<li class="not-active">
+    <a class="not-active" href="./2-step-by-step-sectorial.html">
+        An idea of how to make the design of your sector antenna
+    </a>
+    </li>
+<li class="not-active">
+    <a class="not-active" href="./3-waveguide-support.html">
+        Waveguide support design
+    </a>
+    </li>
+<li class="not-active">
+    <a class="not-active" href="./4-directional-antenna-design.html">
+        Directional antenna design
+    </a>
+    </li>
+<li class="not-active">
+    <a class="not-active" href="./5-waveguide-and-workspace.html">
+        Workspace description
+    </a>
+    </li>
+<li class="active">
+    <a class="active" href="./6-waveguide-prototype.html">
+        Prototyping
+    </a>
+    </li>
+<li class="not-active">
+    <a class="not-active" href="./7-plastic-parts.html">
+        Plastic parts
+    </a>
+    </li>
+
+                </ul>
+            </nav>
+        </div>
+        <div class="wrapper">
+    <h1 id="prototyping">Prototyping</h1>
+<p>
+
+We will describe some characteristics of each antenna, and a graph of their tests performed with a <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Mediciones">program</a> specially designed equipment for this purpose in a distance of 1.1 km.
+
+Our test scenario is located between a very tall pine tree in the town of Casa Grande and the top of a house in the town of Molinari.
+</p>
+
+<p><img src="https://i.imgur.com/CjLMMTv.jpg" width=350><br>
+<img src="https://i.imgur.com/3ujyUQH.png" width=350></p>
+<h2>
+    <u>
+        Prototype 1
+    </u>
+</h2>
+
+<h3>
+    Version 1:
+</h3>
+
+<p>
+In the search for a waveguide type antenna, we developed this prototype; one of the aspects we worked on is the creation of a support for the antenna and the assembly of the cables on the waveguide.
+</p>
+
+<p>
+<b>
+   An early attempt at support was this:
+</b>
+</p>
+
+<p><img src="https://i.imgur.com/czlqfxj.jpg" width=350></p>
+<p>
+<b>
+  Taking an existing support, we welded the waveguide to it.
+</b>
+ In this case we use a 38mm diameter pipe.
+</p>
+
+<p><br></p>
+<ul>
+    <li>
+        Advantages:
+    </li>
+</ul>
+
+<p>
+The way to hold the cables in this prototype was to make a groove in the waveguide and with that material, adding a copper pipe, hold the cable. This simplifies the assembly.
+</p>
+
+<ul>
+    <li>
+        Disadvantages:
+    </li>
+</ul>
+
+<p>
+Due to the characteristics of the material, its weight and its shape, we found this support design not very functional; this led us to rethink how to use the material and the shape of the support.
+
+The slot generates radiation loss.
+
+The diameter of the pipe "cuts" the passage of lower frequencies.
+</p>
+
+<p><img src="https://i.imgur.com/KIhxWMe.png" width=450></p>
+<hr>
+
+<h3>
+    Version 2:
+</h3>
+
+<p>
+<b>
+   We tried modifying the length of the waveguide, with a longer pipe.
+</b>
+</p>
+
+<p><img src="https://i.imgur.com/TQav5AQ.jpg" width=300></p>
+<p>
+   In this version, we modified the way of fastening the cables by soldering a copper pipe to the waveguide, crimping it, and sealing it with heat shrink.
+</p>
+
+<ul>
+    <li>
+        Advantages:
+    </li>
+</ul>
+
+<p>
+   Robustness in the grip precision in the final position of the illuminators.
+</p>
+
+<ul>
+    <li>
+        Disadvantages:
+    </li>
+</ul>
+
+<p>
+   We use an autogenous welder (oxygen and acetylene) which increases the complexity of the workshop and the difficulty of welding.
+
+There is also the possibility of generating "joint stresses" between the materials, which could affect the performance of the antenna.
+
+</p>
+
+<p><img src="https://i.imgur.com/NSQup1n.png" width=450></p>
+<h2>
+    <u>
+       Prototype 2 Conical:
+    </u>
+</h2>
+
+<h3>
+    Version 1:
+</h3>
+
+<p>
+    <b>
+        In this version, we reattached the cables as in the previous version, soldering a copper pipe to the waveguide, crimping it, and sealing it with heat shrink.
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/lk9GKrA.jpg" width=350></p>
+<ul>
+    <li>
+        Advantages:
+    </li>
+</ul>
+<p>
+    We observed that the addition of the conical supplement improves its performance.
+</p>
+
+<ul>
+    <li>
+        Disadvantages:
+    </li>
+</ul>
+<p>
+    For this prototype, we used the large bracket, which is very heavy. We consider it not very functional.
+</p>
+
+<p><img src="https://i.imgur.com/edUjNmK.png" width=250> </p>
+<h3>
+    Version 2:
+</h3>
+
+<p>
+   <b>
+       In this prototype, we shortened the length of the pipe, with an internal diameter of 42 mm, adding a conical end made of sheet metal and welded.
+
+</b>
+
+To support the cables, we designed a "bridge" type grip with sheet metal welded to the waveguide. 
+</p>
+
+<p><img src="https://i.imgur.com/GUXQlql.jpg" width=250> </p>
+<p><img src="https://i.imgur.com/fRiHOqY.jpg" width=350></p>
+<ul>
+    <li>
+        Advantages:
+    </li>
+</ul>
+<p>
+
+   In relation to the support, being lighter and more compact, it allows to move it more easily, being also more economical because it has less material.
+
+In this version of the support, we drilled holes to take advantage of the measures of the "threaded u" that are easily available in hardware stores, creating a support adaptable to two sizes of pipe. This provides accessibility to the product.
+
+</p>
+<p>
+   With this design, we are using the bracket as the waveguide cover. The first prototype of the bracket welded as the antenna cover was 10 cm long. 
+
+Then we chose to leave room for only two sizes of "threaded u", thus giving the possibility to complete the bracket according to the pipe where it is attached.
+</p>
+
+<ul>
+    <li>
+        Disadvantages:
+    </li>
+</ul>
+
+<p>
+   In this prototype, we found many difficulties in soldering the wires to the waveguide. It can be seen in the measurement graph as chain 2 (the green one) with failures in the soldering of the mesh, has lower gain.
+</p>
+
+<p><img src="https://i.imgur.com/N9i2lSI.jpg" width=350></p>
+<p><img src="https://i.imgur.com/W4uxnWd.jpg" width=350></p>
+<p><img src="https://i.imgur.com/dLqFD0W.png" width=450></p>
+<h2>
+    <u>
+       Prototype 3
+    </u>
+</h2>
+
+<p>
+    <b>
+        In this version, we retested attaching the wires with the bent sheet metal "bridge" model, on a shorter waveguide prototype, with 44mm internal diameter, without a cone.
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/JAb67DR.jpg" width=350>
+<img src="https://i.imgur.com/XiLoTFW.jpg" width=350></p>
+<p>
+   Although we obtained very good results in antenna performance, we are still looking for a simpler way to attach the wires, preserving the length of the waveguide in the next prototype.
+</p>
+
+<p><img src="https://i.imgur.com/vWS240q.png" width=450></p>
+<ul>
+    <li>
+        Advantages:
+    </li>
+</ul>
+<p>
+    We obtained good performance results.
+</p>
+<ul>
+    <li>
+        Disadvantages:
+    </li>
+</ul>
+<p>
+   Difficulty in soldering the wire mesh to the pipe 
+</p>
+
+<h2>
+    <u>
+       Prototype 4 Resin
+    </u>
+</h2>
+
+<p>
+    <b>
+        In this prototype, we tested attaching the cables with a ø=1/8 inch hose, transparent, filled with epoxy resin. 
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/mSNnPyS.jpg" width=450></p>
+<ul>
+    <li>
+        Advantages:
+    </li>
+</ul>
+<p>
+    Antenna performance results were good.
+
+</p>
+
+<ul>
+    <li>
+        Disadvantages:
+    </li>
+</ul>
+
+<p>
+   Fragility at the junction of the cables with the waveguide. Some tests came unglued, making them unusable.
+
+Difficulty in removing resin residues in case of need for repair.
+
+Toxicity of the process and the resulting residues.
+</p>
+
+<p><img src="https://i.imgur.com/YZvfxxt.png" width=450></p>
+<h2>
+    <u>
+       Prototype 5 Coupling of plastic parts
+    </u>
+</h2>
+
+<p>
+    <b>
+        Through the <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas">design</a> in <a href="https://www.freecadweb.org/">Freecad</a>, we were able to 3d print plastic parts that allow, by coupling, to hold the cables in an efficient, fast and durable way.
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/N9Dovy3.jpg" width=450></p>
+<p><img src="https://i.imgur.com/7QY8NYF.png" width=450></p>
+<ul>
+    <li>
+        Advantages:
+    </li>
+</ul>
+
+<p>
+   Simple assembly.
+
+Robustness and precision in cable gripping.
+</p>
+
+<ul>
+    <li>
+        Disadvantages:
+    </li>
+</ul>
+
+<p>
+   Access to 3D printing.
+
+Need to develop waterproofing at the junction of the plastic parts.
+</p>
+
+<hr />
+<p><a href="5-waveguide-and-workspace.html">Previous page</a> | <a href="7-plastic-parts.html">Next page</a></p>
+    </div>
+</div>
+<footer class="site-footer">
+    <div class="wrapper">
+        <a target="_blank" rel="noopener noreferrer" href="https://gitbuilding.io">
+    <img class="icon" src="./static/Logo/GitBuilding500x.png" alt="GitBuilding logo">
+    <span class="info">Documentation powered by GitBuilding</span>
+</a>
+    <p class="author">©2023 My Name</p>
+    <p class="email">Contact: <a href="mailto:my-email@my.domain">my-email@my.domain</a></p>
+
+    </div>
+</footer></body>
+</html>
