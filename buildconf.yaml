@@ -1,12 +1,16 @@
+# SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+#
+# SPDX-License-Identifier: CC-BY-NC-4.0
+
 # Recommended information
 Authors:
-    - My Name
+    - Tecnología de Raíz
 
-Affiliation: My Affiliation
+Affiliation: Aprendemos Haciendo
 
-#License: CERN-OHL-1.2
+License: CC-BY-NC-4.0
 
-Email: my-email@my.domain
+Email: tecnologiaderaiz@disroot.org
 
 
 #Uncomment below to add custom categories
