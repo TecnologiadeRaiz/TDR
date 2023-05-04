@@ -15,9 +15,8 @@ Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional
 En esta nueva iteración del diseño "Trompebólica", utilizamos una guía de ondas de 44mm con un reflector, para iluminar el plato parabolico.
 Usamos de molde un plato parabólico de 40cm de diámetro y 8cm de alto, calculando el foco a los 12,5cm del centro.
 
-<img src="https://i.imgur.com/O40ktXq.png" width="500" height="300"> <img src="https://i.imgur.com/r7B7nDr.png" width="500" height="300">
-
-
+![](https://i.imgur.com/O40ktXq.png)
+![](https://i.imgur.com/r7B7nDr.png)
 
 ## Reflector.
 
@@ -26,20 +25,14 @@ Usamos de molde un plato parabólico de 40cm de diámetro y 8cm de alto, calcula
 
 ## Tapa, soporte de parabola y agarraderas.
 
-<img src="https://i.imgur.com/uCBFa1C.png" width="500" height="300">
-
-
-<img src="https://i.imgur.com/I7ZMRJ2.png" width="500" height="300">
-
-
-<img src="https://i.imgur.com/ivvFrU9.png" width="500" height="300">
+![](https://i.imgur.com/uCBFa1C.png)
+![](https://i.imgur.com/I7ZMRJ2.png)
+![](https://i.imgur.com/ivvFrU9.png)
 
 
 ## Diseño final.
 
-<img src="https://i.imgur.com/H1Ysg9e.png" width="500" height="300">
-
-
-<img src="https://i.imgur.com/i42kOdD.png" width="500" height="300">
+![](https://i.imgur.com/H1Ysg9e.png)
+![](https://i.imgur.com/i42kOdD.png)
 
 

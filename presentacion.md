@@ -3,13 +3,14 @@ SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
 
 SPDX-License-Identifier: CC-BY-NC-4.0
 -->
-
-# Te contamos de dónde partimos
+<h1>
+ Te contamos de dónde partimos
+</h1>
 <img src="https://i.imgur.com/GyKBlpb.jpg" align=center width="300" height="250">
 
 
 
-   ## Somos **TdR** 
+##    Somos **TdR** 
    Vecinxs del Barrio Ecológico "El Montecito" ubicado en el Valle de Punilla (Córdoba, Argentina)
 
 
@@ -23,7 +24,7 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 
 
 
-🛣️ Partimos de la curiosidad y el interés en compartir información acerca de electricidad, electrónica, tecnología y el derecho a las reparaciones.
+Partimos de la curiosidad y el interés en compartir información acerca de electricidad, electrónica, tecnología y el derecho a las reparaciones.
 Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barrio, y comenzamos a aprender sobre redes comunitarias.:spider_web:
 
 <img src="https://i.imgur.com/kKUC4GT.jpg" align=right width="180" height="200">
@@ -42,11 +43,18 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 
 - [x] Utilizamos para eso un espacio de taller con una cantidad limitada de herramientas, que nos permiten desarrollar nuestra producción, pero nos gustaría poder mejorarlo, tanto en lo edilicio como sumando máquinas y herramientas.
 
-<img src="https://i.imgur.com/ljebrYh.jpg" width=200 heingth=180> <img src="https://i.imgur.com/EsKhwjh.jpg" width="180" height="200"> <img src="https://i.imgur.com/iYsBOGX.jpg" width="180" height="200"> <img src="https://i.imgur.com/3yWspAI.jpg" width="200" height="180">
-
+![](https://i.imgur.com/ljebrYh.jpg)
+![](https://i.imgur.com/EsKhwjh.jpg)
+![](https://i.imgur.com/iYsBOGX.jpg)
+![](https://i.imgur.com/3yWspAI.jpg)
 ---
        Comenzamos el camino de investigación construyendo antenas doble biquad
-<img src="https://i.imgur.com/vWV7acY.jpg" width=200 heingth=180> <img src="https://i.imgur.com/lvkdowg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/NS17Tfq.jpg" width=200 heingth=180> <img src="https://i.imgur.com/xDR5DUN.jpg" width=200 heingth=180> <img src="https://i.imgur.com/pLAnDUg.jpg" width=200 heingth=180> <img src="https://i.imgur.com/13lidiH.jpg" width=200 heingth=180> 
+![](https://i.imgur.com/vWV7acY.jpg)
+![](https://i.imgur.com/lvkdowg.jpg)
+![](https://i.imgur.com/NS17Tfq.jpg)
+![](https://i.imgur.com/xDR5DUN.jpg)
+![](https://i.imgur.com/pLAnDUg.jpg)
+![](https://i.imgur.com/13lidiH.jpg)
 
        Alguna de las cuales se encuentran instaladas en la red MonteNet 
        ayudando a mejorar el enlace entre nodos.
@@ -88,5 +96,16 @@ ___
 
 
 
+>i Nos motiva compartir conocimiento empoderante que facilite la apropiación tecnológica, y es por eso que trabajamos en el registro de nuestros procesos productivos, para poder compartirlos.
+
 ---
-Nos motiva compartir conocimiento empoderante que facilite la apropiación tecnológica, y es por eso que trabajamos en el registro de nuestros procesos productivos, para poder compartirlos.
+
+### Enlaces al contenido del proyecto LoPALiR:
+
+* [.](paso_a_paso_sectorial.md){step}
+* [.](Diseno_de_soporte_para_guia_de_ondas.md){step}
+* [.](diseno_antena_direccional.md){step}
+* [.](Como_hacer_una_antena.md){step}
+* [.](Prototipado.md){step}
+* [.](partes_plasticas.md){step}
+

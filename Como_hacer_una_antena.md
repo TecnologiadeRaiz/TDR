@@ -28,10 +28,8 @@ SPDX-License-Identifier: CC-BY-NC-4.0
     
 
 
-<img src="https://i.imgur.com/gXzymOk.jpg" width="500">
-
-
-<img src="https://i.imgur.com/q1ku5VV.jpg" width="500">
+![](https://i.imgur.com/gXzymOk.jpg)
+![](https://i.imgur.com/q1ku5VV.jpg)
 
 
 <h2>
@@ -116,9 +114,8 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 Utilizamos la mesa de trabajo con un taco de madera que sostiene la plancha de metal para marcarla, apoyando la plantilla para hacer las perforaciones sobre ella.
 </p>
 
-<img src="https://i.imgur.com/ttwx4Xp.jpg" width="250">
-
-<img src="https://i.imgur.com/qqn3m3w.jpg" width="229">
+![](https://i.imgur.com/ttwx4Xp.jpg)
+![](https://i.imgur.com/qqn3m3w.jpg)
 
 
 
@@ -199,10 +196,10 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Marcar%20soportes.pd
 </p> 
 
 
-<img src="https://i.imgur.com/Uk10gMI.jpg" width="250">
-<img src="https://i.imgur.com/v7XmteS.jpg" width="250">
-<img src="https://i.imgur.com/a5hBm64.jpg" width="250">
-<img src="https://i.imgur.com/hnJvwl5.jpg" width="250">
+![](https://i.imgur.com/Uk10gMI.jpg)
+![](https://i.imgur.com/v7XmteS.jpg)
+![](https://i.imgur.com/a5hBm64.jpg)
+![](https://i.imgur.com/hnJvwl5.jpg)
 
 
 <h4>
@@ -342,12 +339,9 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
     Luego con la tijera de cortar chapa, siguiendo las marcas, se le da forma redondeada.
 </p>
 
-<img src="https://i.imgur.com/ra1M4Wp.jpg" width="200">
-
-
-<img src="https://i.imgur.com/Ul3tYHn.jpg" width="250">
-
-<img src="https://i.imgur.com/Xw1oF1h.jpg" width="250">
+![](https://i.imgur.com/ra1M4Wp.jpg)
+![](https://i.imgur.com/Ul3tYHn.jpg)
+![](https://i.imgur.com/Xw1oF1h.jpg)
 
 
 <h4>
@@ -357,7 +351,9 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
 </h4>
 
 <p>
-    Utilizar elementos de seguridad personal, en este caso guantes.
+>! Recordemos siempre utilizar elementos de seguridad personal, en este caso guantes.
+
+
 </p>
 
 
@@ -427,7 +423,7 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
 </h4>
 
 <p>
-    Es muy importante que se utilice protección en la vista, las máscaras que se utilicen deben ser las apropiadas para soldador eléctrico.
+>! Es muy importante que se utilice protección en la vista, las máscaras que se utilicen deben ser las apropiadas para soldador eléctrico.
     
 </p>
 
@@ -490,7 +486,7 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
 
 <p>
     
-Utilizar elementos de protección personal, en este caso lentes, guantes, protección auditiva y ropa de trabajo que cubra todo el cuerpo, para que la viruta de metal no nos dañe. Asimismo, trabajar con la ventilación correspondiente
+>! Utilizar elementos de protección personal, en este caso lentes, guantes, protección auditiva y ropa de trabajo que cubra todo el cuerpo, para que la viruta de metal no nos dañe. Asimismo, trabajar con la ventilación correspondiente
 
 </p>
 
@@ -546,9 +542,8 @@ Utilizar elementos de protección personal, en este caso lentes, guantes, protec
 </p>
 
 
-<img src="https://i.imgur.com/QMW2gVO.jpg" width="250">
-
-<img src="https://i.imgur.com/HRpBZ2O.jpg" width="300">
+![](https://i.imgur.com/QMW2gVO.jpg)
+![](https://i.imgur.com/HRpBZ2O.jpg)
 
 
 <hr>
@@ -566,19 +561,16 @@ Utilizar elementos de protección personal, en este caso lentes, guantes, protec
     Esta parte de la producción se realiza en una mesa libre de limaduras o virutas de metal.
 </p>
 
-<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
-
-
-<img src="https://i.imgur.com/F7tCu67.jpg" width="250">
+![](https://i.imgur.com/ROP7Pib.jpg)
+![](https://i.imgur.com/F7tCu67.jpg)
 
 
 <p>
     Colocamos los conectores SMA RP male
 </p>
 
-<img src="https://i.imgur.com/rShLDTP.jpg" width="250">
-
-<img src="https://i.imgur.com/ezeSEGo.png" width="250">
+![](https://i.imgur.com/rShLDTP.jpg)
+![](https://i.imgur.com/ezeSEGo.png)
 
 
 <p>
@@ -606,9 +598,8 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
     Para finalizar el proceso, se crimpean y se les coloca termocontraible 
 </p>
 
-<img src="https://i.imgur.com/ZACdT5x.png" width="250">
-
-<img src="https://i.imgur.com/HNBOqjr.jpg" width="250">
+![](https://i.imgur.com/ZACdT5x.png)
+![](https://i.imgur.com/HNBOqjr.jpg)
 
 
 
@@ -854,7 +845,7 @@ Antena terminada
 
 <p>
 <h2>
-TdR no se hace responsable de los posibles daños causados por la realización de estos procedimientos utilizando este material informativo.
+>!! TdR no se hace responsable de los posibles daños causados por la realización de los procedimientos propuestos en este material informativo.
 </h2>
 </p>
 
