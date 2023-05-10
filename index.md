@@ -32,7 +32,7 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 
 ---
 
-# Enfocamos nuestro interés en la investigación y desarrollo de antenas.
+## Enfocamos nuestro interés en la investigación y desarrollo de antenas.
 
 ## Al conformarnos como grupo de trabajo, nuestra búsqueda es:
 * Generar un prototipo de antena que se pueda reproducir facilmente.
