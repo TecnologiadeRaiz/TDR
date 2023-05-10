@@ -28,9 +28,9 @@ Viendo el potencial de las impresiones 3D diseñamos un prototipo de portachain 
 Nuestro primer <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%20plasticas/Tapas/TAPA-v1.FCStd">diseño</a> nos permitió mejorar el funcionamiento de la antena, ya que los regatones plásticos que usábamos como tapa interferían en la señal de las guías de ondas.
    </p> 
 
-<img src="https://i.imgur.com/B5QyScj.png" width=300>
-<img src="https://i.imgur.com/qcSYKYG.jpg" width=130>
-<img src="https://i.imgur.com/USdhI9N.jpg" width=230>
+![](https://i.imgur.com/B5QyScj.png)
+![](https://i.imgur.com/qcSYKYG.jpg)
+![](https://i.imgur.com/USdhI9N.jpg)
     <br>
   
 <h3>
@@ -40,9 +40,11 @@ Nuestro primer <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Pa
 </h3>
    
    <p>
+![](models/MOLDEDEPERFORACIONGUIADEONDAS-v2.stl){color: #996699}
 Este <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/Molde%20de%20perforacion">diseño</a> nos aporta precisión a la hora de realizar las perforaciones en la guía de ondas, agilizando el proceso de producción.
 
-<img src="https://i.imgur.com/wIoHxUG.jpg" width=230><img src="https://i.imgur.com/3hOE8YZ.png" width=330>
+![](https://i.imgur.com/wIoHxUG.jpg")
+![](https://i.imgur.com/3hOE8YZ.png")
         </p>
 <br>
 
@@ -59,21 +61,17 @@ La posibilidad de diseñar <a href="https://github.com/TecnologiadeRaiz/LoPALiR/
 El primer diseño resultaba frágil, dado que el material que usábamos, filamento PLA, no era adecuado para las antenas, ya que se encuentran expuestas al sol, la lluvia y el viento.
 
 
-<img src="https://i.imgur.com/eRYq3qk.jpg" width=200>
-<img src="https://i.imgur.com/hosCe4W.jpg" width=200>
+![](https://i.imgur.com/eRYq3qk.jpg)
+![](https://i.imgur.com/hosCe4W.jpg)
 
 
 La segunda versión de portachain fue diseñada teniendo en cuenta el aumento de espesor de la pieza para darle más solvencia, y el material, que fue reemplazado por filamento PETG.
 
 
-<img src="https://i.imgur.com/sjzqKpC.jpg" width=200>
-
-
-<img src="https://i.imgur.com/dSYESlO.jpg" width=200>
-
-<img src="https://i.imgur.com/M4A7HxO.jpg" width=170>
-
-<img src="https://i.imgur.com/zUYhU1E.jpg" width=230>
+![](https://i.imgur.com/sjzqKpC.jpg)
+![](https://i.imgur.com/dSYESlO.jpg)
+![](https://i.imgur.com/M4A7HxO.jpg)
+![](https://i.imgur.com/zUYhU1E.jpg)
 
     
 Los primeros diseños no nos permitían sostener los cables de la forma esperada.
@@ -82,18 +80,12 @@ Luego descubrimos que para darle terminación y un mejor agarre, debíamos anexa
 
 
 
+![](https://i.imgur.com/I1uTTNk.jpg)
+![](https://i.imgur.com/AWqCxcW.jpg)
+![](https://i.imgur.com/p0yf3wo.jpg)
+![](https://i.imgur.com/huKXoWX.png)
+![](https://i.imgur.com/LlzesG8.png)
 
-<img src="https://i.imgur.com/I1uTTNk.jpg" width=200>
-     
-
-
-<img src="https://i.imgur.com/AWqCxcW.jpg" width=200>
-
-<img src="https://i.imgur.com/p0yf3wo.jpg" width=200>
-
-
-<img src="https://i.imgur.com/huKXoWX.png" width=330>
-<img src="https://i.imgur.com/LlzesG8.png" width=330>
     
 <h3>
     <u>
@@ -150,6 +142,30 @@ Para más información sobre el procedimiento, entrá <a href="https://tdr.libre
 </h3>
     
     
-<img src="https://i.imgur.com/m1Qy7DX.jpg" width=170>
-<img src="https://i.imgur.com/hki5apn.jpg" width=300>
+![](https://i.imgur.com/m1Qy7DX.jpg)
+![](https://i.imgur.com/hki5apn.jpg)
+
+### Acoples para el diseño de antena direccional
+
+Hemos desarrollado algunas partes complementarias a la guía de ondas con el fín de aumentar su directividad.
+Los ultimos ensayos confirman que alcanza un promedio aproximado de 13dB en una dirección.
+
+Los soportes de la parábola permiten añadir el reflector secundario de 16 pulgadas a la guía de ondas. La nariz también cubre el interior del tubo y sujeta el reflector primario en la zona focal de la parábola.
+Solo la "nariz" tarda 5 horas en imprimirse, en total las piezas necesarias demoran casi 8 horas en materializarse.
+
+![](images/portareflector-perspective001.png)
+![](images/soporte-parabaola002.png)
+![](images/waveguide-accesorios002.png)
+
+
+
+---
+
+<img src="https://user-images.githubusercontent.com/104506596/191294248-aa22ad16-f991-412b-8d32-99e27614e7f2.png" alt="Logo NLnet: abstract logo of four people seen from above" height="70"><img src="https://nlnet.nl/image/logos/technologycommonstrust.svg" height="100">
+
+<p>This project was funded through the <strong> <a href="https://nlnet.nl/useroperated/">User-Operated Internet</a> </strong> fund, a fund established by <a href="https://nlnet.nl">NLnet</a> made possible by financial support from the <a href="https://pkt.cash" rel="nofollow">PKT Community</a> <a href="https://pkt.cash/network-steward" rel="nofollow">The Network Steward</a> and stichting <a href="https://technologycommons.org">Technology Commons Trust</a>.</p> 
+
+<p>Saludamos a les amigues de <a href="https://altermundi.net/">AlterMundi.</a></p>
+
+
 
