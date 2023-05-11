@@ -4,7 +4,10 @@ SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
 SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
-# "Desarrollo de pasos para hacer una antena guía de ondas, describiendo nuestro espacio de trabajo"
+# Manos a la obra
+
+
+## Desarrollo de pasos para hacer una antena guía de ondas, describiendo nuestro espacio de trabajo
 
 
 <h2>
@@ -837,6 +840,8 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
 <p>
     Para proteger los iluminadores, la guia de ondas se cierra con una tapa de plástico y sellador de silicona para evitar filtraciones.
 </p>
+
+
 <h2>
 Antena terminada    
 </h2>

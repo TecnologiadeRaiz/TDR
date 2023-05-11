@@ -4,10 +4,10 @@ SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
 SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
+# Tecnologia de raíz
 
-<h1>
-Te contamos de dónde partimos
-</h1>
+## Te contamos de dónde partimos
+
 
 <img src="https://i.imgur.com/GyKBlpb.jpg" align=center width="300" height="250">
 
@@ -31,11 +31,6 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 
 
 ![](https://i.imgur.com/kKUC4GT.jpg)
-
-<<<<<<< HEAD
-## Enfocamos nuestro interés en la investigación y desarrollo de antenas.
-=======
->>>>>>> c457c79 (update)
 
 
 ## Enfocamos nuestro interés en la investigación y desarrollo de antenas.
@@ -73,7 +68,7 @@ ayudando a mejorar el enlace entre nodos.
 
 
 
-Hemos construido algunas [*"guía de ondas"*](https://tdr.libre.org.ar/paso-a-paso-sectorial/) para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.
+Hemos construido algunas [guía de ondas](paso_a_paso_sectorial.html) para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.
 
 
 

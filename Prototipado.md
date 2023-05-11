@@ -5,9 +5,7 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
 # Prototipo de guía de ondas
-<h1>
-    Prototipo de guía de ondas
-</h1>
+
 
 <p>
 En este material mostraremos los diferentes modelos de antenas que fuimos desarrollando hasta llegar al prototipo actual.
@@ -15,6 +13,8 @@ Describiremos algunas caracteristicas de cada antena, y un grafico de sus testeo
 
 Nuestro escenario de pruebas se encuentra entre un pino muy alto en la localidad de Casa Grande y la parte alta de una casa en la localidad de Molinari.
 </p>
+
+
 
 <img src="https://i.imgur.com/CjLMMTv.jpg" width=350><br>
 <img src="https://i.imgur.com/3ujyUQH.png" width=350>

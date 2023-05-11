@@ -5,17 +5,18 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
 #    Partes plásticas
-- En este material mostraremos los diseños y planos de las partes plásticas que complementan el proceso de producción de las antenas
-<p>
+
+En este material mostraremos los diseños y planos de las partes plásticas que complementan el proceso de producción de las antenas
+
     
 La posibilidad de acceder a la impresion 3d como recurso nos habilito a poder crear nuestros propios moldes (matriceria) para facilitar el proceso de producción, así como construir insumos para las guías de ondas.
 
 En principio, las partes plásticas surgieron de la necesidad de sustituir los regatones de plástico utilizados como tapas por tapas plásticas impresas en 3D.
 
 Viendo el potencial de las impresiones 3D diseñamos un prototipo de portachain para sostener los cables de la antena, y también moldes para facilitar la perforacion de los caños de las guías de ondas.
-    El portachain actual nos permite reemplazar procedimientos como soldadura o resinado, acortando los tiempos de producción y los costos también. El proceso hasta llegar a estos diseños y los diferentes prototipos previos están registrados <a href="https://tdr.libre.org.ar/6-prototipado">acá</a>
+    El portachain actual nos permite reemplazar procedimientos como soldadura o resinado, acortando los tiempos de producción y los costos también. El proceso hasta llegar a estos diseños y los diferentes prototipos previos están registrados <a href="/Prototipado.html">acá</a>
     Este proceso de investigación implicó familiarizarnos con las herramientas de diseño en Freecad y prácticas con la impresora. Actualmente estamos por acceder a una capacitación de la UTN (Universidad Técnica Nacional) para perfeccionar las impresiones.
-    </p>
+
 <hr>
     
 <h3>
