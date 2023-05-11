@@ -25,14 +25,17 @@ Viendo el potencial de las impresiones 3D diseñamos un prototipo de portachain 
     </u>
 </h3>
 
-<p>
+
+
 Nuestro primer <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Partes%20plasticas/Tapas/TAPA-v1.FCStd">diseño</a> nos permitió mejorar el funcionamiento de la antena, ya que los regatones plásticos que usábamos como tapa interferían en la señal de las guías de ondas.
-   </p> 
+
+ 
 
 ![](https://i.imgur.com/B5QyScj.png)
 ![](https://i.imgur.com/qcSYKYG.jpg)
 ![](https://i.imgur.com/USdhI9N.jpg)
-    <br>
+
+<br>
   
 <h3>
     <u>
@@ -40,13 +43,18 @@ Nuestro primer <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Pa
     </u> 
 </h3>
    
-   <p>
+
+
 ![](models/MOLDEDEPERFORACIONGUIADEONDAS-v2.stl){color: #996699}
+
 Este <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/Molde%20de%20perforacion">diseño</a> nos aporta precisión a la hora de realizar las perforaciones en la guía de ondas, agilizando el proceso de producción.
 
-![](https://i.imgur.com/wIoHxUG.jpg")
-![](https://i.imgur.com/3hOE8YZ.png")
-        </p>
+![](https://i.imgur.com/wIoHxUG.jpg)
+
+![](https://i.imgur.com/3hOE8YZ.png)
+
+
+
 <br>
 
 
@@ -56,7 +64,7 @@ Este <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20pla
     </u>
 </h3>
 
-<p>
+
 La posibilidad de diseñar <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/PORTACHAIN">estas piezas</a> nos permitió optimizar la forma de sujetar los cables, que se presentaba como un desafìo en los prototipos anteriores, significando un costo y tiempos de producción más alto.
     
 El primer diseño resultaba frágil, dado que el material que usábamos, filamento PLA, no era adecuado para las antenas, ya que se encuentran expuestas al sol, la lluvia y el viento.
@@ -92,7 +100,7 @@ Luego descubrimos que para darle terminación y un mejor agarre, debíamos anexa
     <u>
         Pintura
     </u>
-    </h3>
+</h3>
 
 Para darle terminación a las antenas, utilizamos pintura sintética.
 Nuestra primera experiencia fue utilizando una pintura para automóviles sobre una capa de pintura antióxido.
@@ -129,7 +137,7 @@ Es por eso que decidimos probar con pintura "tres en uno" que tiene característ
 
 Por estas características y la facilidad para diluirse y su poder cubritivo, actualmente estamos utilizando esta pintura como revestimiento para nuestros modelos.
 Para más información sobre el procedimiento, entrá <a href="https://tdr.libre.org.ar/5-como-hacer-una-antena-guia-de-ondas-descripcion-de-nuestro-espacio-de-trabajo/">acá</a>.
-</p>
+
 
 
     
