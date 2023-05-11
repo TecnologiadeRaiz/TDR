@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Tecnologia de raíz</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="./assets/favicon.ico" />
@@ -17,12 +17,9 @@
 <h1>
 Tecnología de Raíz
 </h1>
-<<<<<<< HEAD
-<a href="https://tecnologiaderaiz.github.io/en/"> English</a>
-=======
 
-<a href="http://https://tecnologiaderaiz.github.io/en">English</a>
->>>>>>> c457c79 (update)
+<a href="https://tecnologiaderaiz.github.io/en/"> English</a>
+
             </div>
 </header>
 <div class="page-content">
@@ -38,43 +35,37 @@ Tecnología de Raíz
                 <ul class="nav-list">
                 <li>
     <a class="navhome" href="./">
-        
+        Tecnologia de raíz
     </a>
 </li>
 <li class="not-active">
-    <a class="not-active" href="./index/paso_a_paso_sectorial.html">
+    <a class="not-active" href="./paso_a_paso_sectorial.html">
         Antena sectorial
     </a>
     </li>
 <li class="not-active">
-    <a class="not-active" href="./index/Diseno_de_soporte_para_guia_de_ondas.html">
+    <a class="not-active" href="./Diseno_de_soporte_para_guia_de_ondas.html">
         Diseño de soporte para guía de ondas
     </a>
     </li>
 <li class="not-active">
-    <a class="not-active" href="./index/diseno_antena_direccional.html">
+    <a class="not-active" href="./diseno_antena_direccional.html">
         Desarrollo de diseños para construir una antena direccional
     </a>
     </li>
 <li class="not-active">
-    <a class="not-active" href="./index/Como_hacer_una_antena.html">
-        "Desarrollo de pasos para hacer una antena guía de ondas, describiendo nuestro espacio de trabajo"
+    <a class="not-active" href="./Como_hacer_una_antena.html">
+        Manos a la obra
     </a>
     </li>
-<li class="not-active">
-    <a class="not-active" href="./index/Prototipado.html">
+<li class="active">
+    <a class="active" href="./Prototipado.html">
         Prototipo de guía de ondas
     </a>
     </li>
 <li class="not-active">
-    <a class="not-active" href="./index/partes_plasticas.html">
+    <a class="not-active" href="./partes_plasticas.html">
         Partes plásticas
-    </a>
-    </li>
-<li class="not-active">
-    <a class="not-active" href="./presentacion.html">
-        <!--
-SPDX-File...
     </a>
     </li>
 
@@ -82,12 +73,326 @@ SPDX-File...
             </nav>
         </div>
         <div class="wrapper">
-    <h1 id="there-are-multiple-versions-of-this-page">There are multiple versions of this page.</h1>
-<p>Please select one of these projects:</p>
+    <!--
+SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+-->
+
+<h1 id="prototipo-de-guia-de-ondas">Prototipo de guía de ondas</h1>
+<p>
+En este material mostraremos los diferentes modelos de antenas que fuimos desarrollando hasta llegar al prototipo actual.
+Describiremos algunas caracteristicas de cada antena, y un grafico de sus testeos realizado con un <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Mediciones">programa</a> diseñado para tal fin en una distancia de 1,1 km.
+
+Nuestro escenario de pruebas se encuentra entre un pino muy alto en la localidad de Casa Grande y la parte alta de una casa en la localidad de Molinari.
+</p>
+
+<p><img src="https://i.imgur.com/CjLMMTv.jpg" width=350><br>
+<img src="https://i.imgur.com/3ujyUQH.png" width=350></p>
+<h2>
+    <u>
+        Prototipo 1
+    </u>
+</h2>
+
+<h3>
+    Version 1:
+</h3>
+
+<p>
+En la busqueda de una antena tipo guía de ondas, desarrollamos este prototipo; uno de los aspectos en los que trabajamos es la creación de un soporte para la antena y el montaje de los cable sobre la guía.
+</p>
+
+<p>
+<b>
+   Un primer intento de soporte fue este:
+</b>
+</p>
+
+<p><img src="https://i.imgur.com/czlqfxj.jpg" width=350></p>
+<p>
+<b>
+   Aprovechando un soporte existente, soldamos la guía de ondas al mismo.
+</b>
+
+   En este caso utilizamos un caño de 38mm de diámetro.
+</p>
+
+<p><br></p>
 <ul>
-<li><a href="index/Prototipado.html"></a></li>
-<li><a href="presentacion/Prototipado.html"></a></li>
+    <li>
+        Ventajas:
+    </li>
 </ul>
+
+<p>
+La forma de sostener los cables en este prototipo era realizar una ranura en la guía de ondas y con ese material, sumando un caño de cobre, sostener el cable. Lo cual simplifica el montaje.
+</p>
+
+<ul>
+    <li>
+        Inconvenientes:
+    </li>
+</ul>
+
+<p>
+Por las caracteristicas del material, su peso y su forma, encontramos poco funcional este diseño de soporte; esto nos llevo a repensar como usar el material y la forma del soporte.
+
+La ranura genera pérdida de radiación.
+
+El diámetro del caño "corta" el paso de las frecuencias más bajas.
+</p>
+
+<p><img src="https://i.imgur.com/KIhxWMe.png" width=450></p>
+<hr>
+
+<h3>
+    Versión 2:
+</h3>
+
+<p>
+<b>
+   Probamos modificar la longitud de la guía de ondas, con un caño más largo.
+</b>
+</p>
+
+<p><img src="https://i.imgur.com/TQav5AQ.jpg" width=300></p>
+<p>
+   Modificamos en esta versión la forma de sujetar los cables, soldando a la guía de ondas un caño de cobre, crimpeandolo, y sellandolo con termocontraible.
+</p>
+
+<ul>
+    <li>
+        Ventajas:
+    </li>
+</ul>
+
+<p>
+   Robustez en el agarre
+precisión en la posición final de los iluminadores.
+</p>
+
+<ul>
+    <li>
+        Inconvenientes:
+    </li>
+</ul>
+
+<p>
+   Utilizamos una soldadora autógena (oxígeno y acetileno) lo que aumenta la complejidad del taller y la dificultad para la soldadura.
+
+También se agrega la posibilidad de generar "tensiones de juntura" entre los materiales, que podrían afectar el desempeño de la antena.
+
+</p>
+
+<p><img src="https://i.imgur.com/NSQup1n.png" width=450></p>
+<hr>
+
+<h2>
+    <u>
+       Prototipo 2 Cónica:
+    </u>
+</h2>
+
+<h3>
+    Versión 1:
+</h3>
+
+<p>
+    <b>
+        En esta versión, volvimos a sujetar los cables como en la versión anterior, soldando a la guía de ondas un caño de cobre, crimpeandolo, y sellandolo con termocontraible.
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/lk9GKrA.jpg" width=350></p>
+<ul>
+    <li>
+        Ventajas:
+    </li>
+</ul>
+<p>
+    Notamos que agregarle el suplemento cónico mejora su rendimiento.
+</p>
+
+<ul>
+    <li>
+        Inconvenientes:
+    </li>
+</ul>
+<p>
+    Para este prototipo, utilizamos el soporte grande, que es muy pesado. Lo consideramos poco funcional.
+</p>
+
+<p><img src="https://i.imgur.com/edUjNmK.png" width=250> </p>
+<h3>
+    Versión 2:
+</h3>
+
+<p>
+   <b>
+       En este prototipo, acortamos el largo del caño, de 42 mm de diámetro interno, sumandole una terminación cónica realizada con chapa y soldada.
+
+</b>
+
+Para sostener los cables, diseñamos un agarre tipo "puente" con chapa soldado a la guía de ondas. 
+</p>
+
+<p><img src="https://i.imgur.com/GUXQlql.jpg" width=250> </p>
+<p><img src="https://i.imgur.com/fRiHOqY.jpg" width=350></p>
+<ul>
+    <li>
+        Ventajas:
+    </li>
+</ul>
+<p>
+
+   En relación al soporte al ser más liviano y compacto permite trasladarlo con más facilidad, siendo además más económico por tener menos material.
+
+A esa versión de soporte, le hicimos perforaciones para aprovechar las medidas de las "u roscadas" que se consiguen con facilidad en ferreterías creando un soporte adaptable a dos medidas de caño. Esto le aporta accesibilidad al producto.
+
+</p>
+<p>
+   Con este diseño, estamos utilizando el soporte como tapa de la guía de ondas.El primer prototipo de soporte soldado como tapa de la antena, tenía 10 cm de largo. 
+
+Luego elegimos dejar lugar sólo para dos medidas de "u roscada", dando así la posibilidad de completar el soporte de acuerdo al caño donde se agarre.
+
+</p>
+
+<ul>
+    <li>
+        Inconvenientes:
+    </li>
+</ul>
+
+<p>
+   En este prototipo, encontramos muchas dificultades para soldar los cables a la guía de ondas. Puede observarse el la gráfica de mediciones como el chain 2 (en verde) con fallas en la soldadura de la malla, tiene menor ganancia.
+</p>
+
+<p><img src="https://i.imgur.com/N9i2lSI.jpg" width=350></p>
+<p><img src="https://i.imgur.com/W4uxnWd.jpg" width=350></p>
+<p><img src="https://i.imgur.com/dLqFD0W.png" width=450></p>
+<hr>
+
+<h2>
+    <u>
+       Prototipo 3
+    </u>
+</h2>
+
+<p>
+    <b>
+        En esta versión, volvimos a probar sujetar los cables con el modelo "puente" de chapa doblada, en un prototipo de guía de ondas más corto, con diámetro interno de 44mm, sin cono.
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/JAb67DR.jpg" width=350>
+<img src="https://i.imgur.com/XiLoTFW.jpg" width=350></p>
+<p>
+   A pesar de obtener muy buenos resultados en el rendimiento de la antena, seguimos en la búsqueda de una forma de sujetar los cables más sencilla, conservando la longitud de la guía de ondas en el siguiente prototipo.
+</p>
+
+<p><img src="https://i.imgur.com/vWS240q.png" width=450></p>
+<ul>
+    <li>
+        Ventajas:
+    </li>
+</ul>
+<p>
+    Obtuvimos buenos resultados en el rendimiento.
+</p>
+<ul>
+    <li>
+        Inconvenientes:
+    </li>
+</ul>
+<p>
+   Dificultad para soldar la malla de los cables al caño 
+</p>
+
+<h2>
+    <u>
+       Prototipo 4 Resina
+    </u>
+</h2>
+
+<p>
+    <b>
+        En este prototipo, probamos sujetar los cables con una manguera de ø=1/8 de pulgada , transparente, rellena con resina epoxi. 
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/mSNnPyS.jpg" width=450></p>
+<ul>
+    <li>
+        Ventajas:
+    </li>
+</ul>
+<p>
+    Los resultados en el rendimiento de la antena fueron buenos.
+
+</p>
+
+<ul>
+    <li>
+        Inconvenientes:
+    </li>
+</ul>
+
+<p>
+   Fragilidad en la unión de los cables con la guía de ondas. Algunas pruebas se despegaron, quedando inutilizables.
+
+Dificultad para remover los restos de resina en caso de necesitar reparación.
+
+Toxicidad del proceso y los residuos resultantes.
+</p>
+
+<p><img src="https://i.imgur.com/YZvfxxt.png" width=450></p>
+<hr>
+
+<h2>
+    <u>
+       Prototipo 5 Acople de partes plasticas
+    </u>
+</h2>
+
+<p>
+    <b>
+        A través del <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas">diseño</a> en <a href="https://www.freecadweb.org/">Freecad</a>, logramos imprimir en 3d partes plásticas que permiten, acoplándose, sostener los cables de forma eficiente, rápida y duradera.
+    </b>
+
+</p>
+
+<p><img src="https://i.imgur.com/N9Dovy3.jpg" width=450></p>
+<p><img src="https://i.imgur.com/7QY8NYF.png" width=450></p>
+<ul>
+    <li>
+        Ventajas:
+    </li>
+</ul>
+
+<p>
+   Simpleza de montaje.
+
+Robustez y precisión en el agarre de los cables.
+</p>
+
+<ul>
+    <li>
+        Inconvenientes:
+    </li>
+</ul>
+
+<p>
+   Acceso a impresiones 3D.
+
+Necesidad de desarrollar impermeabilización en la unión de las partes plásticas.
+</p>
+
+<hr />
+<p><a href="Como_hacer_una_antena.html">Previous page</a> | <a href="partes_plasticas.html">Next page</a></p>
     </div>
 </div>
 <footer class="site-footer">
