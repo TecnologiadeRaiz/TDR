@@ -68,7 +68,7 @@ ayudando a mejorar el enlace entre nodos.
 
 
 
-Hemos construido algunas [guía de ondas](paso_a_paso_sectorial.html) para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.
+Hemos construido algunas <a href="/paso_a_paso_sectorial.html">guía de ondas</a> para las redes comunitarias de nuestro territorio, y estamos trabajando en un emprendimiento productivo con las mismas, respondiendo a las necesidades de las redes, intentando crear un producto eficiente, de bajo costo y de producción local.
 
 
 
