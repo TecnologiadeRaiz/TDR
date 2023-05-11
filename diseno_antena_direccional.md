@@ -9,28 +9,41 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 
 
 Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional, capaz de alcanzar entre 20dB y 25dB de ganancia
-<img src="https://i.imgur.com/ubGm5SP.png" width="500" height="500">
+
+
+
+![](https://i.imgur.com/ubGm5SP.png)
+
 
 
 En esta nueva iteración del diseño "Trompebólica", utilizamos una guía de ondas de 44mm con un reflector, para iluminar el plato parabolico.
 Usamos de molde un plato parabólico de 40cm de diámetro y 8cm de alto, calculando el foco a los 12,5cm del centro.
 
+
+
 ![](https://i.imgur.com/O40ktXq.png)
 ![](https://i.imgur.com/r7B7nDr.png)
 
-## Reflector.
+
+
+### Reflector.
 
 <img src="https://i.imgur.com/sjcB1Ct.png" width="500" height="300">
 
 
-## Tapa, soporte de parabola y agarraderas.
+### Tapa, soporte de parabola y agarraderas.
+
+
 
 ![](https://i.imgur.com/uCBFa1C.png)
 ![](https://i.imgur.com/I7ZMRJ2.png)
 ![](https://i.imgur.com/ivvFrU9.png)
 
 
-## Diseño final.
+
+### Diseño final.
+
+
 
 ![](https://i.imgur.com/H1Ysg9e.png)
 ![](https://i.imgur.com/i42kOdD.png)
