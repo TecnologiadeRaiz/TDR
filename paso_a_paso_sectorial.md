@@ -19,7 +19,8 @@ En la búsqueda de un diseño de antena con óptima ganancia, *facilmente replic
 
 
 
-![](https://i.imgur.com/q1iutf3.png)
+
+![](images/1-medicion_ods.png)
 
 
 
@@ -31,7 +32,7 @@ Trabajamos con un programa de software libre de dibujo para el diseño de las an
 
 
 
-![](https://i.imgur.com/94INyTn.jpg)
+![](images/2-Freecad.png)
 
 
 
@@ -39,7 +40,8 @@ Estos son los resultados utilizando [FreeCAD](https://www.freecadweb.org/downloa
  
  
 
-![](https://i.imgur.com/NYOZ9TS.jpg)
+
+![](images/3-waveguide.png)
 
 
 
@@ -47,8 +49,7 @@ Estos son los resultados utilizando [FreeCAD](https://www.freecadweb.org/downloa
 
 
 
-![](https://i.imgur.com/zOvSDsL.jpg)
-
+![](images/4-waveguide.png)
 
 
 
@@ -56,7 +57,9 @@ Como **iluminador** utilizamos para cada chain, una espiga de 11,7mm de  cable c
 
 
 
-<img src="https://i.imgur.com/yNnzJKm.jpg" width="150" height="300">
+![](images/5-iluminadores.jpeg)
+
+
 
 
 ___
@@ -64,8 +67,9 @@ ___
 
 
 
-![](https://i.imgur.com/sWBLNPN.png)
-![](https://i.imgur.com/Bm5bfip.png)
+![](images/6-plano_waveguide_v4.png)
+
+
 
 ___
 

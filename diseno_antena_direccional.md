@@ -4,7 +4,10 @@ SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
 SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
-# Desarrollo de diseños para construir una antena direccional
+# Diseño de antena direccional
+
+
+## Desarrollo de diseños para construir una antena direccional
 
 
 
@@ -12,40 +15,42 @@ Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional
 
 
 
-![](https://i.imgur.com/ubGm5SP.png)
+![](images/1-Diseño_waveguide.png)
 
 
 
-En esta nueva iteración del diseño "Trompebólica", utilizamos una guía de ondas de 44mm con un reflector, para iluminar el plato parabolico.
+En esta nueva iteración del diseño "Trompebólica", utilizamos una guía de ondas de 44mm con un reflector, para iluminar el plato parabólico.
 Usamos de molde un plato parabólico de 40cm de diámetro y 8cm de alto, calculando el foco a los 12,5cm del centro.
 
 
 
-![](https://i.imgur.com/O40ktXq.png)
-![](https://i.imgur.com/r7B7nDr.png)
+![](images/2-Parabola_side.png)
+![](images/3-Parabola_rear.png)
 
 
 
 ### Reflector.
 
-<img src="https://i.imgur.com/sjcB1Ct.png" width="500" height="300">
 
 
-### Tapa, soporte de parabola y agarraderas.
+![](images/4-Reflector_side.png)
 
 
 
-![](https://i.imgur.com/uCBFa1C.png)
-![](https://i.imgur.com/I7ZMRJ2.png)
-![](https://i.imgur.com/ivvFrU9.png)
+### Portareflector y soporte de parabola.
+
+
+
+![](images/5-Soporte_F.png)
+![](images/6-Soporte_T.png)
+![](images/7-Portarreflector_v1.png)
+![](images/8-parabola_400.png)
 
 
 
 ### Diseño final.
 
-
-
-![](https://i.imgur.com/H1Ysg9e.png)
-![](https://i.imgur.com/i42kOdD.png)
-
-
+![](images/9-Plano_parabola_side.png)
+![](images/10-plano_portarreflecctor.png)
+![](images/11-Plano_soporte_F.png)
+![](images/12-Plano_soporte_T.png)

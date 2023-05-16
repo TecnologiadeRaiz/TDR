@@ -16,8 +16,8 @@ Nuestro escenario de pruebas se encuentra entre un pino muy alto en la localidad
 
 
 
-<img src="https://i.imgur.com/CjLMMTv.jpg" width=350><br>
-<img src="https://i.imgur.com/3ujyUQH.png" width=350>
+![](images/1-mapa.jpeg)<br>
+![](images/2-menu_con_informacion.png)
 
 
 
@@ -43,7 +43,8 @@ En la busqueda de una antena tipo guía de ondas, desarrollamos este prototipo; 
  
 
 
-<img src="https://i.imgur.com/czlqfxj.jpg" width=350>
+![](images/3-cañonica.jpeg)
+
 
 
 <p>
@@ -82,7 +83,9 @@ El diámetro del caño "corta" el paso de las frecuencias más bajas.
 
 
 
-<img src="https://i.imgur.com/KIhxWMe.png" width=450>
+![](images/4-medicion_cañonica.png)
+
+
 
 <hr>
 
@@ -97,7 +100,11 @@ El diámetro del caño "corta" el paso de las frecuencias más bajas.
 </b>
 </p>
 
-<img src="https://i.imgur.com/TQav5AQ.jpg" width=300>
+
+
+![](images/5-cañonica_v2.jpeg)
+
+
 
 <p>
    Modificamos en esta versión la forma de sujetar los cables, soldando a la guía de ondas un caño de cobre, crimpeandolo, y sellandolo con termocontraible.
@@ -127,7 +134,11 @@ También se agrega la posibilidad de generar "tensiones de juntura" entre los ma
     
 </p>
     
-<img src="https://i.imgur.com/NSQup1n.png" width=450>
+
+
+![](images/6-mediciones_cañonica-v2.png)
+
+
 
 <hr>
 
@@ -149,7 +160,11 @@ También se agrega la posibilidad de generar "tensiones de juntura" entre los ma
    
 </p>
 
-<img src="https://i.imgur.com/lk9GKrA.jpg" width=350>
+
+
+![](images/7-Conica.jpeg)
+
+
 
 <ul>
     <li>
@@ -170,8 +185,10 @@ También se agrega la posibilidad de generar "tensiones de juntura" entre los ma
 </p>
 
 
-<img src="https://i.imgur.com/edUjNmK.png" width=250> 
 
+![](images/8-mediciones_conica.png)
+
+ 
 
 <h3>
     Versión 2:
@@ -186,9 +203,11 @@ También se agrega la posibilidad de generar "tensiones de juntura" entre los ma
 Para sostener los cables, diseñamos un agarre tipo "puente" con chapa soldado a la guía de ondas. 
 </p>
 
-<img src="https://i.imgur.com/GUXQlql.jpg" width=250> 
 
-<img src="https://i.imgur.com/fRiHOqY.jpg" width=350>
+
+![](images/9-conica_v2.jpeg)![](images/10-conica_v2.jpeg)
+
+
 
 <ul>
     <li>
@@ -220,16 +239,13 @@ Luego elegimos dejar lugar sólo para dos medidas de "u roscada", dando así la 
 </p>
 
 
-<img src="https://i.imgur.com/N9i2lSI.jpg" width=350>
+
+![](images/11-soportes.jpeg)
+![](images/12-midiendo_u_roscada.jpeg)
+
+![](images/13-mediciones_conica_v2.png)
 
 
-
-
-
-<img src="https://i.imgur.com/W4uxnWd.jpg" width=350>
-
-
-<img src="https://i.imgur.com/dLqFD0W.png" width=450>
 
 <hr>
 
@@ -246,14 +262,22 @@ Luego elegimos dejar lugar sólo para dos medidas de "u roscada", dando así la 
    
 </p>
 
-<img src="https://i.imgur.com/JAb67DR.jpg" width=350>
-<img src="https://i.imgur.com/XiLoTFW.jpg" width=350>
+
+
+![](images/14-puentecita.jpeg)
+![](images/15-puentecita.jpeg)
+
+
 
 <p>
    A pesar de obtener muy buenos resultados en el rendimiento de la antena, seguimos en la búsqueda de una forma de sujetar los cables más sencilla, conservando la longitud de la guía de ondas en el siguiente prototipo.
 </p>
+
+
     
-<img src="https://i.imgur.com/vWS240q.png" width=450>
+![](images/16-mediciones_puentecita.png)
+
+
 
 <ul>
     <li>
@@ -285,7 +309,9 @@ Luego elegimos dejar lugar sólo para dos medidas de "u roscada", dando así la 
  
 </p>
 
-<img src="https://i.imgur.com/mSNnPyS.jpg" width=450>
+
+
+![](images/17-resina.jpg)
 
 
 
@@ -313,7 +339,11 @@ Dificultad para remover los restos de resina en caso de necesitar reparación.
 Toxicidad del proceso y los residuos resultantes.
 </p>
 
-<img src="https://i.imgur.com/YZvfxxt.png" width=450>
+
+
+![](images/18-mediciones_resina.png)
+
+
 
 <hr>
 
@@ -330,9 +360,12 @@ Toxicidad del proceso y los residuos resultantes.
     
 </p>
     
-<img src="https://i.imgur.com/N9Dovy3.jpg" width=450>
 
-<img src="https://i.imgur.com/7QY8NYF.png" width=450>
+
+![](images/19-waveguide_v4.jpg)
+![](images/20-mediciones_waveguide_v4.png)
+
+
 
 <ul>
     <li>

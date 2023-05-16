@@ -9,7 +9,8 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 ## Te contamos de dónde partimos
 
 
-<img src="https://i.imgur.com/GyKBlpb.jpg" align=center width="300" height="250">
+
+![](images/1-TdR_logo.jpeg)
 
 
 
@@ -20,9 +21,10 @@ Vecinxs del Barrio Ecológico "El Montecito" ubicado en el Valle de Punilla (Có
 
 
 Formamos un grupo de estudio e investigación, con el cual generamos un espacio para trabajar y estudiar en conjunto, y lo sostenemos de forma continua desde mediados del 2019.
+
  
- 
-![](https://i.imgur.com/lLrzTjU.jpg)
+
+![](images/2-team.jpeg)
 
 
 
@@ -30,7 +32,11 @@ Partimos de la curiosidad y el interés en compartir información acerca de elec
 Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barrio, y comenzamos a aprender sobre redes comunitarias.
 
 
-![](https://i.imgur.com/kKUC4GT.jpg)
+
+
+![](images/3-pablo_antena.jpeg)
+
+
 
 
 ## Enfocamos nuestro interés en la investigación y desarrollo de antenas.
@@ -45,26 +51,39 @@ Andando ese camino, en simultáneo se desplegó la red MonteNet en nuestro barri
 
 Utilizamos para eso un espacio de taller con una cantidad limitada de herramientas, que nos permiten desarrollar nuestra producción, pero nos gustaría poder mejorarlo, tanto en lo edilicio como sumando máquinas y herramientas.
 
-![](https://i.imgur.com/ljebrYh.jpg)
-![](https://i.imgur.com/EsKhwjh.jpg)
-![](https://i.imgur.com/iYsBOGX.jpg)
-![](https://i.imgur.com/3yWspAI.jpg)
+
+
+![](images/4-Pablo_soldando.jpeg)
+![](images/5-Sol_soldando.jpeg)
+![](images/6-Caro_moladora.jpeg)
+![](images/7-Caro_Sol_midiendo.jpeg)
+
+
 
 ---
 
+
 Comenzamos el camino de investigación construyendo antenas doble biquad
 
-![](https://i.imgur.com/vWV7acY.jpg)
-![](https://i.imgur.com/lvkdowg.jpg)
-![](https://i.imgur.com/NS17Tfq.jpg)
-![](https://i.imgur.com/xDR5DUN.jpg)
-![](https://i.imgur.com/pLAnDUg.jpg)
-![](https://i.imgur.com/13lidiH.jpg)
+
+
+
+![](images/8-Bicuad_metal.jpeg)
+![](images/9-Bicuad_rusty.jpeg)
+![](images/10-Bicuad_side.jpeg)
+![](images/11-Bicuad_x_2.jpeg)
+![](images/12-Bicuad_impresa.jpg)
+![](images/13-Bicuad_en_L.jpg)
+
+
 
 Alguna de las cuales se encuentran instaladas en la red MonteNet 
 ayudando a mejorar el enlace entre nodos.
 
-![](https://i.imgur.com/ADAAuaG.jpg)
+
+
+
+![](images/14-Antena_Rut.jpg)
 
 
 

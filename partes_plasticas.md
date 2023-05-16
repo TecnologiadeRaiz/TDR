@@ -31,9 +31,11 @@ Nuestro primer <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Pa
 
  
 
-![](https://i.imgur.com/B5QyScj.png)
-![](https://i.imgur.com/qcSYKYG.jpg)
-![](https://i.imgur.com/USdhI9N.jpg)
+![](images/1-plano_tapa.png)
+![](images/2-tapa.jpg)
+![](images/3-tapa.jpg)
+
+
 
 <br>
   
@@ -49,9 +51,10 @@ Nuestro primer <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Pa
 
 Este <a href="https://github.com/TecnologiadeRaiz/LoPALiR/tree/main/Partes%20plasticas/Molde%20de%20perforacion">diseño</a> nos aporta precisión a la hora de realizar las perforaciones en la guía de ondas, agilizando el proceso de producción.
 
-![](https://i.imgur.com/wIoHxUG.jpg)
 
-![](https://i.imgur.com/3hOE8YZ.png)
+
+![](images/4-molde_de_perforacion.jpg)
+![](images/5-plano_molde_de_perforacion.png)
 
 
 
@@ -70,17 +73,21 @@ La posibilidad de diseñar <a href="https://github.com/TecnologiadeRaiz/LoPALiR/
 El primer diseño resultaba frágil, dado que el material que usábamos, filamento PLA, no era adecuado para las antenas, ya que se encuentran expuestas al sol, la lluvia y el viento.
 
 
-![](https://i.imgur.com/eRYq3qk.jpg)
-![](https://i.imgur.com/hosCe4W.jpg)
+
+![](images/6-portachain_v1.jpg)
+![](images/7-portachain_v1.jpg)
+
 
 
 La segunda versión de portachain fue diseñada teniendo en cuenta el aumento de espesor de la pieza para darle más solvencia, y el material, que fue reemplazado por filamento PETG.
 
 
-![](https://i.imgur.com/sjzqKpC.jpg)
-![](https://i.imgur.com/dSYESlO.jpg)
-![](https://i.imgur.com/M4A7HxO.jpg)
-![](https://i.imgur.com/zUYhU1E.jpg)
+
+![](images/8-portachain_v2.jpg)
+![](images/9-portachain_v2.jpg)
+![](images/10-portachain_v2_impresora.jpg)
+![](images/11-portachain_v2_impresora.jpg)
+
 
     
 Los primeros diseños no nos permitían sostener los cables de la forma esperada.
@@ -89,11 +96,12 @@ Luego descubrimos que para darle terminación y un mejor agarre, debíamos anexa
 
 
 
-![](https://i.imgur.com/I1uTTNk.jpg)
-![](https://i.imgur.com/AWqCxcW.jpg)
-![](https://i.imgur.com/p0yf3wo.jpg)
-![](https://i.imgur.com/huKXoWX.png)
-![](https://i.imgur.com/LlzesG8.png)
+![](images/12-portachain_v4.jpg)
+![](images/13-portachain_v4.jpg)
+![](images/14-aros.jpg)
+![](images/15-plano_portachain_v4.png)
+![](images/16-plano_portachain_v4.png)
+
 
     
 <h3>
@@ -151,8 +159,11 @@ Para más información sobre el procedimiento, entrá <a href="/Como_hacer_una_a
 </h3>
     
     
-![](https://i.imgur.com/m1Qy7DX.jpg)
-![](https://i.imgur.com/hki5apn.jpg)
+
+![](images/17-antena_pintada.jpg)
+![](images/18-antena_pintada.jpg)
+
+
 
 ### Acoples para el diseño de antena direccional
 
@@ -162,9 +173,12 @@ Los ultimos ensayos confirman que alcanza un promedio aproximado de 13dB en una 
 Los soportes de la parábola permiten añadir el reflector secundario de 16 pulgadas a la guía de ondas. La nariz también cubre el interior del tubo y sujeta el reflector primario en la zona focal de la parábola.
 Solo la "nariz" tarda 5 horas en imprimirse, en total las piezas necesarias demoran casi 8 horas en materializarse.
 
-![](images/portareflector-perspective001.png)
-![](images/soporte-parabaola002.png)
-![](images/waveguide-accesorios002.png)
+
+
+![](images/19-portareflector.png)
+![](images/20-soporte_parabaola.png)
+![](images/21-waveguide_con_accesorios.png)
+
 
 
 

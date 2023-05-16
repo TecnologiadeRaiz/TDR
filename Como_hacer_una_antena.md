@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
 SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
-# Manos a la obra
+# Guía de construcción
 
 
 ## Desarrollo de pasos para hacer una antena guía de ondas, describiendo nuestro espacio de trabajo
@@ -31,8 +31,9 @@ SPDX-License-Identifier: CC-BY-NC-4.0
     
 
 
-![](https://i.imgur.com/gXzymOk.jpg)
-![](https://i.imgur.com/q1ku5VV.jpg)
+![](images/1-taller.jpeg)
+![](images/2-taller.jpeg)
+
 
 
 <h2>
@@ -117,8 +118,10 @@ SPDX-License-Identifier: CC-BY-NC-4.0
 Utilizamos la mesa de trabajo con un taco de madera que sostiene la plancha de metal para marcarla, apoyando la plantilla para hacer las perforaciones sobre ella.
 </p>
 
-![](https://i.imgur.com/ttwx4Xp.jpg)
-![](https://i.imgur.com/qqn3m3w.jpg)
+
+
+![](images/3-plantilla_de_soporte.jpeg)
+![](images/4-punzando.jpeg)
 
 
 
@@ -133,7 +136,9 @@ Utilizamos la mesa de trabajo con un taco de madera que sostiene la plancha de m
 href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Marcar%20soportes.pdf">enlace </a>   
 </p>
 
-<img src="https://i.imgur.com/iICJJL1.jpg" width="250">
+
+
+![](images/5-soporte_punzado.jpeg)
 
 
 
@@ -199,10 +204,12 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/Marcar%20soportes.pd
 </p> 
 
 
-![](https://i.imgur.com/Uk10gMI.jpg)
-![](https://i.imgur.com/v7XmteS.jpg)
-![](https://i.imgur.com/a5hBm64.jpg)
-![](https://i.imgur.com/hnJvwl5.jpg)
+
+![](images/6-perforando_soporte.jpeg)
+![](images/7-soporte_perforado.jpeg)
+![](images/8-limando_soporte.jpeg)
+![](images/9-soporte_limado.jpeg)
+
 
 
 <h4>
@@ -265,19 +272,31 @@ Tambien es recomendable no demorar demasiado realizando la perforacion para no e
     Con el caño de 130mm procedemos a preparar el banco de trabajo para perforar la guia de ondas.
 </p>
 
-<img src="https://i.imgur.com/GhNqUXl.jpg" width="250">
+
+
+![](images/10-waveguide_sin_perforacion.jpeg)
+
+
+
+
 
 <p>
 Con la ayuda del <a href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/PLANOS/MOLDE%20DE%20PERFORACION%20-%20V2.svg">molde de perforacion</a>. 
 </p> 
 
-<img src="https://i.imgur.com/5j43Whh.jpg" width="250">
+
+
+![](images/11-perforando_waveguide.jpeg)
+
+
 
 <p>
 Una vez perforado el caño estañamos alrededor de los orificios
 </p>
 
-<img src="https://i.imgur.com/DWT8PUM.jpg" width="300">
+
+
+![](images/12-estañando_waveguide.jpeg)
 
 
 
@@ -342,9 +361,12 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
     Luego con la tijera de cortar chapa, siguiendo las marcas, se le da forma redondeada.
 </p>
 
-![](https://i.imgur.com/ra1M4Wp.jpg)
-![](https://i.imgur.com/Ul3tYHn.jpg)
-![](https://i.imgur.com/Xw1oF1h.jpg)
+
+
+![](images/13-NO_cortar_sin_guantes.jpeg)
+![](images/14-cortar_CON_guantes.jpeg)
+![](images/15-soportes.jpeg)
+
 
 
 <h4>
@@ -415,7 +437,9 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
     Con el soporte agarrado a la morza por su lado perforado, colocamos la guia de ondas con las perforaciones hacia abajo y una de ellas orientada hacia el lado redondeado del soporte.  
 </p>
 
-<img src="https://i.imgur.com/03QkQWv.jpg" width="250">
+
+
+![](images/16-soldando_waveguide_y_soporte.jpeg)
 
 
 
@@ -477,7 +501,9 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
     Sujetando la guia de ondas con la morza firmemente, eliminamos el excedente de soldadura del soporte y la guia de ondas.
 </p>
 
-<img src="https://i.imgur.com/kmyraO5.jpg" width="250">
+
+
+![](images/17-amolando_waveguide.jpeg)
 
 
 
@@ -545,8 +571,10 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
 </p>
 
 
-![](https://i.imgur.com/QMW2gVO.jpg)
-![](https://i.imgur.com/HRpBZ2O.jpg)
+
+![](images/18-pintando_waveguide.jpeg)
+![](images/19-antena_pintada.jpeg)
+
 
 
 <hr>
@@ -564,16 +592,22 @@ href="https://github.com/TecnologiadeRaiz/LoPALiR/blob/main/perforado%20y%20esta
     Esta parte de la producción se realiza en una mesa libre de limaduras o virutas de metal.
 </p>
 
-![](https://i.imgur.com/ROP7Pib.jpg)
-![](https://i.imgur.com/F7tCu67.jpg)
+
+
+![](images/20-pelando_cable.jpeg)
+![](images/21-herramientas.jpeg)
+
 
 
 <p>
     Colocamos los conectores SMA RP male
 </p>
 
-![](https://i.imgur.com/rShLDTP.jpg)
-![](https://i.imgur.com/ezeSEGo.png)
+
+
+![](images/22-soldando_espiga.jpeg)
+![](images/23-espigas_soldadas.png)
+
 
 
 <p>
@@ -601,8 +635,10 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
     Para finalizar el proceso, se crimpean y se les coloca termocontraible 
 </p>
 
-![](https://i.imgur.com/ZACdT5x.png)
-![](https://i.imgur.com/HNBOqjr.jpg)
+
+
+![](images/24-crimpeando_sma.png)
+![](images/25-aplicando_termocontraible.jpg)
 
 
 
@@ -611,10 +647,9 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
 	Recomendamos una espiga de 11.7mm de longitud.
 </p>
 
-<img src="https://i.imgur.com/ROP7Pib.jpg" width="250">
 
 
-
+![](images/26-pelando_espiga.jpeg)
 
 
 
@@ -634,7 +669,11 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
     Este proceso se puede realizar en la mesa de trabajo auxiliar, donde tenemos instalado un dispositivo con ranuras para sostener los cables.
 </p>
 
-<img src="https://i.imgur.com/dhaLKIt.jpg" width="250">
+
+
+![](images/27-waveguide_con_pigtail.jpeg)
+
+
 
 <h4>
     <u>
@@ -667,7 +706,10 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
     Estañamos las perforaciones previamente cepilladas, luego tomamos el cable  pigtail, lo colocamos en la perforacion y soldamos la malla al caño (guia de ondas).
 </p>
  
-<img src="https://i.imgur.com/Yfhxqin.jpg" width="250">
+
+
+![](images/28-estañando_waveguide.jpeg)
+
 
 
 <p>
@@ -703,7 +745,12 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
     Utilizamos un mueble donde esta posicionada la impresora 3D, resguardada de la hostilidad del taller.
 </p>
 
-<img src="https://i.imgur.com/cdfA0QW.jpg" width="350">
+
+
+![](images/29-impresora_3D.jpeg)
+
+
+
 <h4>
     <u>
         Para este trabajo necesitamos:    
@@ -814,7 +861,9 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
     Una vez realizado ese procedimiento, se conecta uno de los cables al medidor RC antenna meter y se miden  primero las ondas emitidas por ese chain, y luego las del otro.
 </p>
 
-<img src="https://i.imgur.com/8tGsiFz.jpg" width="250">
+
+
+![](images/30-waveguide_con_pigtails.jpeg)
 
 
 
@@ -846,7 +895,11 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
 Antena terminada    
 </h2>
 
-<img src="https://i.imgur.com/aEgRFwI.jpg" width="400">
+
+
+![](images/31-antena_terminada.jpeg)
+
+
 
 <p>
 <h2>
