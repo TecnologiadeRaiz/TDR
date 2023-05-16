@@ -43,7 +43,7 @@ En la busqueda de una antena tipo guía de ondas, desarrollamos este prototipo; 
  
 
 
-![](images/3-cañonica.jpeg)
+![](images/3-canionica.jpeg)
 
 
 
@@ -83,7 +83,7 @@ El diámetro del caño "corta" el paso de las frecuencias más bajas.
 
 
 
-![](images/4-medicion_cañonica.png)
+![](images/4-medicion_canionica.png)
 
 
 
@@ -102,7 +102,7 @@ El diámetro del caño "corta" el paso de las frecuencias más bajas.
 
 
 
-![](images/5-cañonica_v2.jpeg)
+![](images/5-canionica_v2.jpeg)
 
 
 
@@ -136,7 +136,7 @@ También se agrega la posibilidad de generar "tensiones de juntura" entre los ma
     
 
 
-![](images/6-mediciones_cañonica-v2.png)
+![](images/6-mediciones_canionica-v2.png)
 
 
 

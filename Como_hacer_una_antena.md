@@ -296,7 +296,7 @@ Una vez perforado el caño estañamos alrededor de los orificios
 
 
 
-![](images/12-estañando_waveguide.jpeg)
+![](images/12-estaniando_waveguide.jpeg)
 
 
 
@@ -708,7 +708,7 @@ href="https://player.vimeo.com/video/780569067?h=7d256afc33">Ensamblado parte 1<
  
 
 
-![](images/28-estañando_waveguide.jpeg)
+![](images/28-estaniando_waveguide.jpeg)
 
 
 

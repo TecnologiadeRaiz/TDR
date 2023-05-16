@@ -15,7 +15,7 @@ Con el presente diseño se busca conseguir una antena MiMo para 5Ghz direccional
 
 
 
-![](images/1-Diseño_waveguide.png)
+![](images/1-Disenio_waveguide.png)
 
 
 
