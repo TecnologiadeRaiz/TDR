@@ -138,4 +138,5 @@ Nos motiva compartir conocimiento empoderante que facilite la apropiación tecno
 * [.](Como_hacer_una_antena.md){step}
 * [.](Prototipado.md){step}
 * [.](partes_plasticas.md){step}
+* [Caracterización](Caracterizacion.md){step}
 
