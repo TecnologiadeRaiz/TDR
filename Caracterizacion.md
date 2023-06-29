@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2023 Tecnología de Raíz <tecnologiaderaiz@disroot.org>
 SPDX-License-Identifier: CC-BY-NC-4.0
 -->
 
-# Caracterizacion
+# Caracterización
 
 Luego de haber finalizado la etapa de prototipado, como estaba previsto enviamos uno de nuestros modelos al [INTI](https://www.argentina.gob.ar/inti) (Instituto Nacional de Tecnología Industrial) para que realicen una caracterización de nuestra antena sectorial y también de la misma convertida en direccional mediante sus accesorios.
 
