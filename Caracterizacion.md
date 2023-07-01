@@ -58,7 +58,7 @@ Estos fueron algunos de los resultados de las mediciones obtenidas en las prueba
 
 
 ### Compartimos la tabla de instrumentos utilizados para las pruebas.
-Iinstrumental utilizado en la medición de los parámetros s11 y s21
+Instrumental utilizado en la medición de los parámetros s11 y s21
 
 ![](images/9-instrumentalutilizadoparamediciondeparamtross11ys21.png)
 
