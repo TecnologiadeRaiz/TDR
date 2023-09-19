@@ -139,4 +139,4 @@ Nos motiva compartir conocimiento empoderante que facilite la apropiación tecno
 * [.](Prototipado.md){step}
 * [.](partes_plasticas.md){step}
 * [Caracterización](Caracterizacion.md){step}
-
+* [.](Pruebas-de-campo.md){step}

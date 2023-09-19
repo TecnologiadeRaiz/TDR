@@ -8,48 +8,69 @@ Una de esas experiencias es el proyecto ANERA, en el que AlterMundi promovió la
 
 Así también por ejemplo en India, donde gracias al programa ["Comunitty of Practice"](https://communitynetworks.group/c/cops/16) de la "Asociación para el Progreso de la Comunicaciones" y la participación de la comunidad de [Janastu](https://open.janastu.org/projects), sucedieron intercambios de prácticas y métodos de producción de antenas.
 De manera similar, la comunidad de [Colnodo](https://colnodo.apc.org/es/experiencias/el-equipo-de-redes-comunitarias-de-colnodo-fabrica-prototipo-de-antena-para-conectar-territorios-en-colombia) en Colombia, adoptó nuestro diseño y método de fabricación, analizando sus primeros prototipos en laboratorios de la Universidad Departamental de Bogotá
-
+---
 
 Posterior a esas experiencias y con el objetivo de realizar pruebas de campo de la versión cónica de nuestras antenas, organizamos una visita a Campo de la Rivera, barrio popular de la periferia de la capital de Córdoba, donde los vecinos y vecinas crearon una red comunitaria para resolver sus problemas de conectividad, principalmente relacionados con la falta de recursos para acceder a las costosas prestaciones de servicios de las empresas de telecomunicaciones.
 Allí, quienes participan de la agrupación Encuentro de Organizaciones, instalaron 5 nodos LibreRouter con antenas construidas por TdR, que reemplazamos por antenas cónicas para realizar pruebas de campo. 
 En esta parte del barrio, la red comunitaria y las antenas de TdR permiten tener conectividad a vecinos y vecinas, así como a un [espacio comunitario](https://www.facebook.com/asambleadecampodelaribera/) donde funciona un comedor, merendero y otras actividades que enriquecen el trabajo comunitario. 
 Allí nos reunimos en el espacio del comedor comunitario, donde hicimos puesta en común de activides y nos indicaron cómo es la red para dar comienzo a las pruebas. 
  
- [foto juntada inicial]
  
 ![](images/2-juntada-inicial.jpg)
-[foto de mapita de la red]
+![](images/36-croquisCampoRivera001.jpeg)
+![](images/32-JuntadaCampoRivera001.jpeg)
+
+
 
 En primer lugar realizamos mediciones con las antenas que tenían instaladas en la red de Campo de la Rivera. Estas antenas, realizadas con la técnica de sujeción de cables de resina, dieron los siguientes resultados:
 
-[foto resina 25db]
-![](images/1-antena-conica.jpg)
 
-Aqui podemos observar cómo este material afecta negativamente a la perfomance de este prototipo, ya que los cables no quedan sujetos firmemente; cómo resultado de este inconveniente, se puede observar en la imagen donde el chain 2 tiene un [nivel de señal] menor que el chain 1.
+
+![](images/38-resinaRota001.jpeg)
+![](images/35-medicionResinaCampoRivera25db001.png)
+
+
+Aqui podemos observar cómo este material no resuelve la necesidad, ya que los cables no quedan sujetos firmemente, lo que afecta negativamente a la perfomance de este prototipo; cómo resultado de este inconveniente se puede observar en la imagen donde el chain 2 tiene un nivel de señal menor que el chain 1.
  
- [imagen de prueba modificación cónica]
+
+
+![](images/1-antena-conica.jpg)
+![](images/33-MedicionConica25dB001.png)
+
+---
  
 Nuestra siguiente prueba de campo fue realizada en la red comunitaria que se encuentra en nuestro territorio. Aquí [MonteLibre](https://libregrande.online/) permite a 60 familias de dos pueblos lindantes entre sí el acceso a la comunicación.
 
 ![](https://i.imgur.com/sUG3ymA.jpg =x400)
 
-[fotopablo4]
 
-Esta red, que ya contaba con antenas construidas en el taller de Td[cuales son?] , nos permitió realizar pruebas de campo entre dos de sus nodos principales situados a una distancia de 1,1 km.
+Esta red, que ya contaba con antenas tipo guía de ondas construidas en el taller de TdR, nos permitió realizar pruebas de campo entre dos de sus nodos principales situados a una distancia de 1,2 km.
 
-[fotos de conica en palito?]
 
-Inicialmente realizamos mediciones con las antenas versión ??¿ que dieron estos resultados:
 
-[fotos de pruebas anteriores con las antenas que estaban puestas]
 
-Podemos observar que los resultados son 
+
+
+
+Inicialmente realizamos mediciones con las antenas versión 5 que dieron estos resultados:
+
+![](images/39-v5palito-si001.png)
+
+Podemos observar que la prueba fue realizada con una potencia fijada en 26dB, Las radios de los LibreRouters están calibradas para reducir la potencia en los bordes del espectro que pueden transmitir. ![Más info en la imagen](documents/5GHzSpectrumUsageUK-2017-v1.pdf)
 
 
 
 
 En este mismo escenario, donde hemos realizado testeos de los prototipos anteriores, colocamos la versión cónica y obtuvimos estos resultados:
-
-[fotos de mediciones actuales ]
+![](images/37-conicaPalito001.jpeg)
+![](images/33-MedicionConica25dB001.png)
 
 Cómo conclusión, hemos comprobado que el rendimiento de las antenas cónicas es muy bueno, y puede mejorar la conectividad en comparación con las otras versiones, ya que brindan mayor ganancia... 
+
+
+
+
+
+
+
+
