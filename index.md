@@ -140,3 +140,4 @@ Nos motiva compartir conocimiento empoderante que facilite la apropiación tecno
 * [.](partes_plasticas.md){step}
 * [Caracterización](Caracterizacion.md){step}
 * [.](Pruebas-de-campo.md){step}
+* [.](manual.md{step}
